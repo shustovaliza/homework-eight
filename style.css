@@ -1,0 +1,20 @@
+.swiper {
+    padding: 30px 0 70px 0;
+    height: 600px;
+
+}
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide__img-wrap {
+    text-align: center;
+}
+
+.swiper-slide__img-wrap img {
+    max-width: 700px;
+    max-height: 500px;
+}
+
